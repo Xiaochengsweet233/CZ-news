@@ -6,7 +6,7 @@
 
 # 欢迎来到CZ新闻站
 ## 新闻
-[CZ新闻站成立及权限申请图](http://cz-news.wdvip.tech/001.md)
+[CZ新闻站成立及权限申请图](http://cz-news.wdvip.tech/001.html)
 
 ## 欢迎联系网站维护者！
 
