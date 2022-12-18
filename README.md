@@ -6,6 +6,7 @@
 # 欢迎来到CZ新闻站
 ## 新闻
 [CZ新闻站成立及权限申请图](http://cz-news.wdvip.tech/001.html)
+[CZ工作室对谢辰熙恶意行动的声明](http://cz-news.wdvip.tech/002.html)
 
 ## 欢迎联系网站维护者！
 
