@@ -13,5 +13,5 @@ QQ:1615086510
 e-mail:xiaochengsweet@outlook.com
 
 <div align="center">
-  <em>@<a href="https://github.com/Xiaochengsweet233">xiaochengsweet233</a>💗 2022</em>
+  <em>@<a href="https://github.com/Xiaochengsweet233">xiaochengsweet233</a> 2022</em>
 </div>
