@@ -1,14 +1,12 @@
 <div align="center">
   <img src="./public/czlogo.png" alt="CZ-news" />
-  <h3><a href="./README.md">Cheng-Resources-Drive</a></h3>
+  <h3><a href="./README.md">主页</a></h3>
   <p><em>CZ-news CZ新闻站</em></p>
 </div>
 
 # 欢迎来到CZ新闻站
 ## 新闻
-未找到任何新闻诶！(っ °Д °;)っ
-<br />
-查看[欢迎联系网站维护者！]模块，联系开发者
+[CZ新闻站成立及权限申请图](http://cz-news.wdvip.tech/001.md)
 
 ## 欢迎联系网站维护者！
 
