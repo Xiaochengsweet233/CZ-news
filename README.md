@@ -1,6 +1,5 @@
 <div align="center">
   <img src="./public/czlogo.png" alt="CZ-news" />
-  <h3><a href="./README.md">主页</a></h3>
   <p><em>CZ-news CZ新闻站</em></p>
 </div>
 
