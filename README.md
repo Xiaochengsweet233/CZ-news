@@ -13,9 +13,6 @@
 C站账号：https://code.xueersi.com/space/74809605 <br />
 QQ:1615086510（常用） <br />
 e-mail:xiaochengsweet@outlook.com <br />
-<br />
-
-<a href="https://cz-blacklist.wdvip.tech/">点我回主页ヾ(•ω•`)o</a>
 
 <div align="center">
   <em>@<a href="https://github.com/Xiaochengsweet233">xiaochengsweet233</a> 2022</em>
