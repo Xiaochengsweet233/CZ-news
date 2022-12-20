@@ -1,7 +1,6 @@
 <div align="center">
   <img src="./public/czlogo.png" alt="CZ-news" />
   <p><em>CZ-news CZ新闻站</em></p>
-  <p><em>單純的派大星试图调戏站长 全站挂</em></p>
 </div>
 
 # 欢迎来到CZ新闻站
